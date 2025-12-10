@@ -1262,6 +1262,10 @@ td {
         
         hyphens: auto;
     }
+    
+    .script p, ul, ol, a{
+        font-size: 1rem;
+    }
 
     .card {
         width: 100%;
