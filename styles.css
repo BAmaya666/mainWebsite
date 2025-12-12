@@ -1302,6 +1302,9 @@ td {
         width: 60px;
     }
 
+    #goal p, #research p, .verde li {
+        
+
     #overview {
         margin: 0 6%
     }
@@ -1342,6 +1345,7 @@ td {
 
     .verdeCont {
         padding: 10px 10% 0 10%;
+        font-size: 1.5rem;
     }
 
     .verde li {
