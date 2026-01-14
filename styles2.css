@@ -228,6 +228,14 @@
         .carousel img {
             width: 60%;
         }
+        .carousel-indicators {
+            bottom: 600px;
+        }
+
+        .carousel-item .carousel-caption {
+            right: 55%;
+        }
+
     /* TEMPORARY FIXES - ENDS */
 
     /* 2 INDEX - START*/
@@ -1792,4 +1800,5 @@
                 padding-top: 15%;
             }
         /* 15. Hobbies - ends */
+
     }
